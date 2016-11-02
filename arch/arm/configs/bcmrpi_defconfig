@@ -4587,6 +4587,7 @@ CONFIG_MCP3422=m
 # Humidity sensors
 #
 CONFIG_DHT11=m
+CONFIG_HTU21=m
 # CONFIG_HDC100X is not set
 # CONFIG_HTU21 is not set
 # CONFIG_SI7005 is not set
@@ -5428,3 +5429,4 @@ CONFIG_FONT_8x16=y
 # CONFIG_SG_SPLIT is not set
 # CONFIG_ARCH_HAS_SG_CHAIN is not set
 # CONFIG_VIRTUALIZATION is not set
+
